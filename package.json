@@ -1,0 +1,15 @@
+{
+  "name": "scss_landing",
+  "version": "1.0.0",
+  "description": "landing page",
+  "main": "index.html",
+  "scripts": {
+    "sass:watch": "sass --watch styles:dist"
+  },
+  "author": "Tanchuk Sofiia",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4",
+    "sass": "^1.89.2"
+  }
+}
